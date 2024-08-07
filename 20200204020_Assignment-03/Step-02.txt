@@ -1,0 +1,3 @@
+[float] [id 1] [=] [3.125] [;] [double] [id 2] [(] [int] [id 3] [)] [{] 
+[double] [id 4] [;] [id 4] [=] [0.01] [+] [id 3] [*] [5.5] [;] [return] [id 6] [;] [}] [[id main] [(] [void] [)] [{] [int] [id 6] [;] [double] 
+[id 6] [;] [id 6] [=] [25] [;] [id 6] [=] [id 2] [(] [id 6] [)] [;]
